@@ -1,0 +1,46 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 800 bold;
+    font-size: 5rem;
+    color: goldenrod;
+
+    text-align: center;
+
+    margin-top: 0%;
+
+}
+
+
+
+
+.button {
+
+    background-color: goldenrod;
+
+    color: white;
+    ;
+}
+
+button {
+
+    background-color: white;
+    color: goldenrod;
+    font-weight: bold;
+
+}
+
+body {
+
+    background-image: url("https://i.ytimg.com/vi/NzrGTGkevQc/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+footer {
+
+    margin-top: 750px;
+}
